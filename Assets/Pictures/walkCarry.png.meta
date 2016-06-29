@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 0776446bdf30f9e489a04178bdb1f6e2
+timeCreated: 1466601666
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walkCarry_0
+    21300002: walkCarry_1
+    21300004: walkCarry_2
+    21300006: walkCarry_3
+    21300008: walkCarry_4
+    21300010: walkCarry_5
+    21300012: walkCarry_6
+    21300014: walkCarry_7
+    21300016: walkCarry_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: walkCarry_0
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 4063
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walkCarry_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3432
+        width: 1228
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 260, y: -123.5}
+        - {x: 159, y: 13.5}
+        - {x: 232, y: 36.5}
+        - {x: 308, y: 53.5}
+        - {x: 308, y: 120.5}
+        - {x: 289, y: 127.5}
+        - {x: 224, y: 150.5}
+        - {x: 196, y: 150.5}
+        - {x: 167, y: 132.5}
+        - {x: -85, y: 114.5}
+        - {x: -121, y: 103.5}
+        - {x: -307, y: 41.5}
+        - {x: -307, y: 20.5}
+        - {x: -268, y: -3.5}
+        - {x: -179, y: 24.5}
+        - {x: -243, y: -85.5}
+        - {x: -192, y: -150.5}
+        - {x: -134, y: -150.5}
+        - {x: -151, y: -73.5}
+        - {x: -93, y: -150.5}
+        - {x: -58, y: -150.5}
+        - {x: -38, y: -88.5}
+        - {x: -34, y: -18.5}
+        - {x: -32, y: -111.5}
+        - {x: 3, y: -150.5}
+        - {x: 47, y: -150.5}
+        - {x: 68, y: -22.5}
+        - {x: 215, y: -147.5}
+        - {x: 251, y: -140.5}
+    - name: walkCarry_2
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3441
+        width: 1225
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -13}
+        - {x: -23.5, y: -88}
+        - {x: -29.5, y: -108}
+        - {x: 46.5, y: -141}
+        - {x: 97.5, y: -49}
+        - {x: 156.5, y: -148}
+        - {x: 164.5, y: -148}
+        - {x: 212.5, y: -137}
+        - {x: 210.5, y: -118}
+        - {x: 198.5, y: -109}
+        - {x: 145.5, y: 5}
+        - {x: 275.5, y: 35}
+        - {x: 305.5, y: 51}
+        - {x: 305.5, y: 140}
+        - {x: 251.5, y: 149}
+        - {x: 115.5, y: 149}
+        - {x: 31.5, y: 116}
+        - {x: -103.5, y: 114}
+        - {x: -306.5, y: 40}
+        - {x: -306.5, y: 15}
+        - {x: -232.5, y: 3}
+        - {x: -251.5, y: -70}
+        - {x: -266.5, y: -135}
+        - {x: -251.5, y: -148}
+        - {x: -195.5, y: -148}
+        - {x: -176.5, y: -86}
+        - {x: -41.5, y: -148}
+        - {x: 9.5, y: -148}
+        - {x: 10.5, y: -147}
+        - {x: 1.5, y: -123}
+        - {x: -29.5, y: -115}
+        - {x: -50.5, y: -82}
+    - name: walkCarry_3
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 3457
+        width: 1214
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 13}
+        - {x: 72.5, y: -38}
+        - {x: 90.5, y: -141}
+        - {x: 102.5, y: -144}
+        - {x: 192.5, y: -144}
+        - {x: 200.5, y: -41}
+        - {x: 170.5, y: 27}
+        - {x: 289.5, y: 27}
+        - {x: 304.5, y: 41}
+        - {x: 304.5, y: 100}
+        - {x: 241.5, y: 145}
+        - {x: 57.5, y: 145}
+        - {x: -89.5, y: 121}
+        - {x: -172.5, y: 86}
+        - {x: -303.5, y: 25}
+        - {x: -303.5, y: 7}
+        - {x: -302.5, y: 3}
+        - {x: -230.5, y: -5}
+        - {x: -186.5, y: 18}
+        - {x: -268.5, y: -82}
+        - {x: -263.5, y: -94}
+        - {x: -202.5, y: -115}
+        - {x: -129.5, y: -50}
+        - {x: -105.5, y: -121}
+        - {x: -71.5, y: -144}
+        - {x: -33.5, y: -144}
+        - {x: -31.5, y: -142}
+        - {x: -27.5, y: -126}
+        - {x: -34.5, y: -119}
+    - name: walkCarry_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2739
+        width: 1193
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -133}
+        - {x: 87, y: -133}
+        - {x: 92, y: -39}
+        - {x: 147, y: -110}
+        - {x: 186, y: -115}
+        - {x: 185, y: -93}
+        - {x: 178, y: -44}
+        - {x: 171, y: -32}
+        - {x: 147, y: 31}
+        - {x: 289, y: 48}
+        - {x: 299, y: 69}
+        - {x: 299, y: 143}
+        - {x: 246, y: 151}
+        - {x: 116, y: 151}
+        - {x: 56, y: 124}
+        - {x: -139, y: 117}
+        - {x: -298, y: 11}
+        - {x: -298, y: -17}
+        - {x: -256, y: -20}
+        - {x: -197, y: -5}
+        - {x: -233, y: -113}
+        - {x: -228, y: -117}
+        - {x: -174, y: -150}
+        - {x: -86, y: -150}
+        - {x: -113, y: -82}
+        - {x: -74, y: -35}
+        - {x: -64, y: -11}
+    - name: walkCarry_5
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2715
+        width: 1220
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: -127}
+        - {x: -33, y: 0}
+        - {x: 2, y: -154}
+        - {x: 62, y: -147}
+        - {x: 78, y: -138}
+        - {x: 42, y: -82}
+        - {x: 98, y: -49}
+        - {x: 178, y: -156}
+        - {x: 260, y: -156}
+        - {x: 181, y: -14}
+        - {x: 174, y: 39}
+        - {x: 278, y: 47}
+        - {x: 306, y: 61}
+        - {x: 306, y: 117}
+        - {x: 273, y: 157}
+        - {x: 158, y: 157}
+        - {x: 90, y: 120}
+        - {x: -87, y: 123}
+        - {x: -215, y: 82}
+        - {x: -269, y: 40}
+        - {x: -305, y: -14}
+        - {x: -305, y: -47}
+        - {x: -297, y: -53}
+        - {x: -200, y: 32}
+        - {x: -218, y: -54}
+        - {x: -191, y: -156}
+        - {x: -126, y: -156}
+        - {x: -124, y: -151}
+        - {x: -125, y: -132}
+        - {x: -119, y: -152}
+    - name: walkCarry_6
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2743
+        width: 1218
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -110}
+        - {x: -33.5, y: -106}
+        - {x: -39.5, y: -102}
+        - {x: -52.5, y: -75}
+        - {x: -36.5, y: -35}
+        - {x: -34.5, y: -28}
+        - {x: -42.5, y: -72}
+        - {x: -42.5, y: -92}
+        - {x: -29.5, y: -107}
+        - {x: -17.5, y: -110}
+        - {x: 14.5, y: -117}
+        - {x: 58.5, y: -96}
+        - {x: 135.5, y: -140}
+        - {x: 182.5, y: -143}
+        - {x: 191.5, y: -138}
+        - {x: 175.5, y: -115}
+        - {x: 305.5, y: 30}
+        - {x: 305.5, y: 113}
+        - {x: 228.5, y: 150}
+        - {x: 146.5, y: 150}
+        - {x: -90.5, y: 120}
+        - {x: -212.5, y: 82}
+        - {x: -263.5, y: 65}
+        - {x: -304.5, y: 21}
+        - {x: -304.5, y: -83}
+        - {x: -258.5, y: -148}
+        - {x: -253.5, y: -149}
+        - {x: -173.5, y: -149}
+        - {x: -16.5, y: -138}
+        - {x: -3.5, y: -127}
+        - {x: -8.5, y: -112}
+    - name: walkCarry_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2043
+        width: 1226
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 234.5, y: 31}
+        - {x: 307.5, y: 39}
+        - {x: 307.5, y: 104}
+        - {x: 263.5, y: 138}
+        - {x: 242.5, y: 145}
+        - {x: 120.5, y: 145}
+        - {x: -2.5, y: 105}
+        - {x: -63.5, y: 128}
+        - {x: -257.5, y: 99}
+        - {x: -306.5, y: 24}
+        - {x: -306.5, y: 3}
+        - {x: -299.5, y: 3}
+        - {x: -293.5, y: 8}
+        - {x: -265.5, y: -54}
+        - {x: -301.5, y: -75}
+        - {x: -302.5, y: -94}
+        - {x: -225.5, y: -115}
+        - {x: -179.5, y: -48}
+        - {x: -107.5, y: -134}
+        - {x: -35.5, y: -136}
+        - {x: -97.5, y: -59}
+        - {x: -61.5, y: -35}
+        - {x: 53.5, y: -22}
+        - {x: 51.5, y: -107}
+        - {x: 94.5, y: -144}
+        - {x: 145.5, y: -144}
+        - {x: 138.5, y: -117}
+        - {x: 150.5, y: -51}
+        - {x: 140.5, y: 8}
+    - name: walkCarry_8
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2043
+        width: 1243
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 209.5, y: -96}
+        - {x: 159.5, y: 10}
+        - {x: 199.5, y: 54}
+        - {x: 298.5, y: 39}
+        - {x: 311.5, y: 59}
+        - {x: 311.5, y: 109}
+        - {x: 308.5, y: 114}
+        - {x: 251.5, y: 145}
+        - {x: 142.5, y: 145}
+        - {x: -82.5, y: 125}
+        - {x: -170.5, y: 96}
+        - {x: -310.5, y: 25}
+        - {x: -310.5, y: -2}
+        - {x: -197.5, y: 8}
+        - {x: -248.5, y: -113}
+        - {x: -125.5, y: -144}
+        - {x: -105.5, y: -144}
+        - {x: -101.5, y: -129}
+        - {x: -108.5, y: -114}
+        - {x: -62.5, y: -25}
+        - {x: 33.5, y: -30}
+        - {x: 13.5, y: -82}
+        - {x: 15.5, y: -104}
+        - {x: 42.5, y: -137}
+        - {x: 48.5, y: -144}
+        - {x: 106.5, y: -144}
+        - {x: 80.5, y: -39}
+        - {x: 168.5, y: -117}
+        - {x: 186.5, y: -117}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

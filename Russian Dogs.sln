@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{57B91093-F4EC-AA55-0DCE-37762821B86A}") = "Russian Dogs", "Assembly-CSharp.csproj", "{A613D92A-6E58-3FDE-C5CC-3667CBF7CBF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A613D92A-6E58-3FDE-C5CC-3667CBF7CBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A613D92A-6E58-3FDE-C5CC-3667CBF7CBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A613D92A-6E58-3FDE-C5CC-3667CBF7CBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A613D92A-6E58-3FDE-C5CC-3667CBF7CBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

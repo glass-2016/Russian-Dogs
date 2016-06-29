@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 0838f058c99b345419910cabc6648889
+timeCreated: 1466601593
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pickup_0
+    21300002: pickup_1
+    21300004: pickup_2
+    21300006: pickup_3
+    21300008: pickup_4
+    21300010: pickup_5
+    21300012: pickup_6
+    21300014: pickup_7
+    21300016: pickup_8
+    21300018: pickup_9
+    21300020: pickup_10
+    21300022: pickup_11
+    21300024: pickup_12
+    21300026: pickup_13
+    21300028: pickup_14
+    21300030: pickup_15
+    21300032: pickup_16
+    21300034: pickup_17
+    21300036: pickup_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pickup_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3387
+        width: 1336
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -161}
+        - {x: -84, y: -85}
+        - {x: 27, y: -12}
+        - {x: 73, y: -134}
+        - {x: 106, y: -160}
+        - {x: 115, y: -161}
+        - {x: 165, y: -161}
+        - {x: 167, y: -147}
+        - {x: 162, y: -142}
+        - {x: 154, y: -137}
+        - {x: 139, y: -134}
+        - {x: 146, y: -135}
+        - {x: 157, y: -136}
+        - {x: 175, y: -156}
+        - {x: 218, y: -159}
+        - {x: 225, y: -153}
+        - {x: 223, y: -135}
+        - {x: 173, y: -106}
+        - {x: 262, y: 42}
+        - {x: 335, y: 80}
+        - {x: 335, y: 135}
+        - {x: 281, y: 162}
+        - {x: 143, y: 162}
+        - {x: 80, y: 147}
+        - {x: -112, y: 118}
+        - {x: -153, y: 98}
+        - {x: -334, y: 47}
+        - {x: -334, y: 20}
+        - {x: -235, y: 2}
+        - {x: -219, y: -62}
+        - {x: -223, y: -141}
+        - {x: -198, y: -161}
+        - {x: -155, y: -161}
+        - {x: -148, y: -158}
+        - {x: -154, y: -145}
+        - {x: -113, y: -157}
+        - {x: -91, y: -161}
+      - - {x: 14, y: -161}
+        - {x: 18, y: -161}
+        - {x: 20, y: -160}
+        - {x: 20, y: -157}
+        - {x: 19, y: -155}
+        - {x: 15, y: -155}
+        - {x: 13, y: -156}
+        - {x: 13, y: -160}
+    - name: pickup_1
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 3429
+        width: 1228
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -12}
+        - {x: 13, y: -24}
+        - {x: 5, y: -80}
+        - {x: 3, y: -101}
+        - {x: 88, y: -151}
+        - {x: 149, y: -151}
+        - {x: 157, y: -106}
+        - {x: 75, y: -80}
+        - {x: 187, y: 41}
+        - {x: 272, y: 39}
+        - {x: 284, y: 52}
+        - {x: 308, y: 83}
+        - {x: 308, y: 103}
+        - {x: 228, y: 152}
+        - {x: 171, y: 152}
+        - {x: 142, y: 125}
+        - {x: -90, y: 113}
+        - {x: -149, y: 98}
+        - {x: -236, y: 101}
+        - {x: -290, y: 152}
+        - {x: -291, y: 152}
+        - {x: -307, y: 148}
+        - {x: -307, y: 126}
+        - {x: -306, y: 124}
+        - {x: -268, y: 89}
+        - {x: -224, y: 58}
+        - {x: -203, y: -16}
+        - {x: -202, y: -81}
+        - {x: -151, y: -137}
+        - {x: -133, y: -151}
+        - {x: -64, y: -151}
+        - {x: -38, y: -143}
+        - {x: -46, y: -110}
+        - {x: -95, y: -90}
+        - {x: -57, y: -61}
+    - name: pickup_2
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 3409
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pickup_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2695
+        width: 1246
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -23}
+        - {x: -2.5, y: -78}
+        - {x: 8.5, y: -108}
+        - {x: 87.5, y: -149}
+        - {x: 136.5, y: -149}
+        - {x: 161.5, y: -136}
+        - {x: 151.5, y: -106}
+        - {x: 78.5, y: -83}
+        - {x: 162.5, y: -6}
+        - {x: 199.5, y: 45}
+        - {x: 256.5, y: 17}
+        - {x: 300.5, y: 37}
+        - {x: 312.5, y: 59}
+        - {x: 312.5, y: 72}
+        - {x: 236.5, y: 150}
+        - {x: 216.5, y: 150}
+        - {x: 154.5, y: 131}
+        - {x: 148.5, y: 92}
+        - {x: 78.5, y: 105}
+        - {x: 30.5, y: 93}
+        - {x: -98.5, y: 110}
+        - {x: -235.5, y: 108}
+        - {x: -292.5, y: 150}
+        - {x: -311.5, y: 150}
+        - {x: -311.5, y: 124}
+        - {x: -196.5, y: 10}
+        - {x: -194.5, y: -20}
+        - {x: -205.5, y: -78}
+        - {x: -142.5, y: -149}
+        - {x: -57.5, y: -149}
+        - {x: -48.5, y: -135}
+        - {x: -51.5, y: -106}
+        - {x: -46.5, y: -8}
+    - name: pickup_4
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2695
+        width: 1252
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 0}
+        - {x: 2, y: -32}
+        - {x: -4, y: -112}
+        - {x: 88, y: -145}
+        - {x: 134, y: -149}
+        - {x: 144, y: -133}
+        - {x: 135, y: -104}
+        - {x: 79, y: -82}
+        - {x: 183, y: -15}
+        - {x: 274, y: -9}
+        - {x: 314, y: 16}
+        - {x: 314, y: 38}
+        - {x: 241, y: 122}
+        - {x: 194, y: 113}
+        - {x: 120, y: 91}
+        - {x: 37, y: 84}
+        - {x: -81, y: 112}
+        - {x: -156, y: 103}
+        - {x: -245, y: 105}
+        - {x: -292, y: 150}
+        - {x: -313, y: 150}
+        - {x: -313, y: 119}
+        - {x: -215, y: 45}
+        - {x: -197, y: -39}
+        - {x: -209, y: -80}
+        - {x: -164, y: -134}
+        - {x: -137, y: -149}
+        - {x: -62, y: -149}
+        - {x: -40, y: -113}
+        - {x: -85, y: -101}
+        - {x: -67, y: -61}
+    - name: pickup_5
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 2695
+        width: 1240
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -68}
+        - {x: -49, y: -12}
+        - {x: 10, y: -33}
+        - {x: 4, y: -91}
+        - {x: 2, y: -120}
+        - {x: 101, y: -149}
+        - {x: 149, y: -149}
+        - {x: 158, y: -138}
+        - {x: 137, y: -98}
+        - {x: 131, y: -68}
+        - {x: 176, y: -30}
+        - {x: 242, y: -66}
+        - {x: 300, y: -54}
+        - {x: 311, y: -48}
+        - {x: 311, y: -24}
+        - {x: 267, y: 60}
+        - {x: 212, y: 72}
+        - {x: 79, y: 73}
+        - {x: -91, y: 109}
+        - {x: -147, y: 102}
+        - {x: -207, y: 88}
+        - {x: -286, y: 150}
+        - {x: -310, y: 150}
+        - {x: -310, y: 126}
+        - {x: -258, y: 79}
+        - {x: -205, y: 15}
+        - {x: -210, y: -68}
+        - {x: -161, y: -143}
+        - {x: -136, y: -149}
+        - {x: -59, y: -149}
+        - {x: -45, y: -130}
+        - {x: -53, y: -109}
+        - {x: -65, y: -106}
+    - name: pickup_6
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 2683
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pickup_7
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 2685
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pickup_8
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2675
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pickup_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1979
+        width: 1228
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -87}
+        - {x: 3, y: -111}
+        - {x: 19, y: -130}
+        - {x: 81, y: -150}
+        - {x: 152, y: -150}
+        - {x: 170, y: -147}
+        - {x: 165, y: -107}
+        - {x: 99, y: -94}
+        - {x: 163, y: -68}
+        - {x: 236, y: -97}
+        - {x: 259, y: -93}
+        - {x: 256, y: -85}
+        - {x: 251, y: -76}
+        - {x: 257, y: -86}
+        - {x: 264, y: -90}
+        - {x: 308, y: -97}
+        - {x: 308, y: -48}
+        - {x: 292, y: 44}
+        - {x: 212, y: 63}
+        - {x: 132, y: 57}
+        - {x: -81, y: 121}
+        - {x: -218, y: 108}
+        - {x: -286, y: 151}
+        - {x: -307, y: 151}
+        - {x: -307, y: 127}
+        - {x: -273, y: 77}
+        - {x: -193, y: 42}
+        - {x: -200, y: -79}
+        - {x: -140, y: -150}
+        - {x: -46, y: -150}
+        - {x: -35, y: -115}
+        - {x: -60, y: -63}
+        - {x: 35, y: -48}
+    - name: pickup_10
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1981
+        width: 1230
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -53.5}
+        - {x: -29.5, y: -15.5}
+        - {x: 25.5, y: -49.5}
+        - {x: 3.5, y: -112.5}
+        - {x: 18.5, y: -135.5}
+        - {x: 114.5, y: -149.5}
+        - {x: 159.5, y: -149.5}
+        - {x: 166.5, y: -144.5}
+        - {x: 153.5, y: -98.5}
+        - {x: 173.5, y: -59.5}
+        - {x: 228.5, y: -95.5}
+        - {x: 239.5, y: -118.5}
+        - {x: 307.5, y: -93.5}
+        - {x: 308.5, y: -92.5}
+        - {x: 308.5, y: -49.5}
+        - {x: 283.5, y: 31.5}
+        - {x: 240.5, y: 48.5}
+        - {x: 135.5, y: 54.5}
+        - {x: -106.5, y: 112.5}
+        - {x: -182.5, y: 78.5}
+        - {x: -287.5, y: 150.5}
+        - {x: -307.5, y: 150.5}
+        - {x: -307.5, y: 123.5}
+        - {x: -205.5, y: 33.5}
+        - {x: -192.5, y: -46.5}
+        - {x: -202.5, y: -82.5}
+        - {x: -148.5, y: -134.5}
+        - {x: -132.5, y: -143.5}
+        - {x: -120.5, y: -149.5}
+        - {x: -54.5, y: -149.5}
+        - {x: -33.5, y: -116.5}
+        - {x: -89.5, y: -88.5}
+        - {x: -59.5, y: -63.5}
+    - name: pickup_11
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1981
+        width: 1242
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -14}
+        - {x: 9.5, y: -31}
+        - {x: -0.5, y: -107}
+        - {x: 95.5, y: -149}
+        - {x: 137.5, y: -149}
+        - {x: 148.5, y: -143}
+        - {x: 147.5, y: -114}
+        - {x: 90.5, y: -89}
+        - {x: 139.5, y: -58}
+        - {x: 203.5, y: -24}
+        - {x: 226.5, y: -69}
+        - {x: 271.5, y: -87}
+        - {x: 311.5, y: -43}
+        - {x: 311.5, y: -24}
+        - {x: 274.5, y: 42}
+        - {x: 227.5, y: 78}
+        - {x: 164.5, y: 57}
+        - {x: 109.5, y: 73}
+        - {x: -86.5, y: 110}
+        - {x: -151.5, y: 103}
+        - {x: -177.5, y: 78}
+        - {x: -269.5, y: 135}
+        - {x: -292.5, y: 150}
+        - {x: -310.5, y: 150}
+        - {x: -310.5, y: 127}
+        - {x: -273.5, y: 88}
+        - {x: -203.5, y: -24}
+        - {x: -202.5, y: -79}
+        - {x: -143.5, y: -149}
+        - {x: -57.5, y: -149}
+        - {x: -50.5, y: -148}
+        - {x: -41.5, y: -127}
+        - {x: -62.5, y: -98}
+        - {x: -85.5, y: -82}
+    - name: pickup_12
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1971
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pickup_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1279
+        width: 1252
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -0.5}
+        - {x: 7, y: -66.5}
+        - {x: -1, y: -82.5}
+        - {x: -3, y: -89.5}
+        - {x: 6, y: -101.5}
+        - {x: 88, y: -144.5}
+        - {x: 134, y: -148.5}
+        - {x: 144, y: -132.5}
+        - {x: 135, y: -103.5}
+        - {x: 77, y: -82.5}
+        - {x: 139, y: -42.5}
+        - {x: 180, y: -6.5}
+        - {x: 272, y: -20.5}
+        - {x: 314, y: 15.5}
+        - {x: 314, y: 38.5}
+        - {x: 238, y: 117.5}
+        - {x: 194, y: 113.5}
+        - {x: 120, y: 91.5}
+        - {x: -98, y: 122.5}
+        - {x: -182, y: 89.5}
+        - {x: -288, y: 149.5}
+        - {x: -313, y: 149.5}
+        - {x: -313, y: 120.5}
+        - {x: -215, y: 45.5}
+        - {x: -207, y: -78.5}
+        - {x: -148, y: -148.5}
+        - {x: -64, y: -148.5}
+        - {x: -53, y: -128.5}
+        - {x: -55, y: -110.5}
+        - {x: -64, y: -106.5}
+    - name: pickup_14
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1279
+        width: 1240
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -14}
+        - {x: 4, y: -99}
+        - {x: 11, y: -105}
+        - {x: 85, y: -146}
+        - {x: 118, y: -149}
+        - {x: 147, y: -149}
+        - {x: 152, y: -105}
+        - {x: 73, y: -82}
+        - {x: 160, y: -4}
+        - {x: 204, y: 48}
+        - {x: 240, y: 19}
+        - {x: 282, y: 7}
+        - {x: 311, y: 45}
+        - {x: 311, y: 73}
+        - {x: 230, y: 139}
+        - {x: 183, y: 148}
+        - {x: 143, y: 99}
+        - {x: -88, y: 116}
+        - {x: -177, y: 88}
+        - {x: -286, y: 150}
+        - {x: -310, y: 150}
+        - {x: -310, y: 129}
+        - {x: -271, y: 87}
+        - {x: -194, y: 41}
+        - {x: -197, y: -19}
+        - {x: -190, y: -29}
+        - {x: -221, y: -82}
+        - {x: -141, y: -149}
+        - {x: -71, y: -149}
+        - {x: -56, y: -143}
+        - {x: -48, y: -115}
+        - {x: -63, y: -105}
+        - {x: -59, y: -52}
+    - name: pickup_15
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 1271
+        width: 1231
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -23}
+        - {x: 4, y: -79}
+        - {x: 9, y: -103}
+        - {x: 74, y: -151}
+        - {x: 146, y: -151}
+        - {x: 157, y: -149}
+        - {x: 152, y: -109}
+        - {x: 147, y: -107}
+        - {x: 81, y: -80}
+        - {x: 200, y: 55}
+        - {x: 266, y: 24}
+        - {x: 295, y: 26}
+        - {x: 308, y: 42}
+        - {x: 308, y: 99}
+        - {x: 229, y: 152}
+        - {x: 167, y: 152}
+        - {x: 93, y: 118}
+        - {x: -111, y: 106}
+        - {x: -145, y: 96}
+        - {x: -158, y: 88}
+        - {x: -289, y: 152}
+        - {x: -308, y: 152}
+        - {x: -308, y: 128}
+        - {x: -275, y: 75}
+        - {x: -193, y: 39}
+        - {x: -199, y: -10}
+        - {x: -198, y: -26}
+        - {x: -203, y: -81}
+        - {x: -152, y: -151}
+        - {x: -42, y: -151}
+        - {x: -43, y: -116}
+        - {x: -59, y: -107}
+        - {x: -55, y: -54}
+    - name: pickup_16
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1267
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pickup_17
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pickup_18
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 1251
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
